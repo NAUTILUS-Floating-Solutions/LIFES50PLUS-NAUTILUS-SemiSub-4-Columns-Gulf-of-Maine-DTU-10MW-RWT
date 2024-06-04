@@ -1,0 +1,7 @@
+1.0     	;   constant 1    Frequency of 2nd order servo model of generator-converter system [Hz]   
+0.9      	;   constant 2    Damping ratio 2nd order servo model of generator-converter system [-]
+15.6E+06 	;   constant 3    Maximum allowable LSS torque (pull-out torque) [Nm]
+1.0     	;   constant 4    Generator efficiency [-]
+1.0      	;   constant 5    Gearratio [-]
+0.0      	;   constant 6    Time for half value in softstart of torque [s]
+1000     	;   constant 7    Time for grid loss [s]
